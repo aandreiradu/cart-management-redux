@@ -1,0 +1,17 @@
+.header {
+    width: 100%;
+    height: 5rem;
+    padding: 0 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #252424;
+}
+
+.header h1 {
+    color: #fff;
+}
+
+.header  ul {
+    list-style: none;
+}
